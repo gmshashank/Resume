@@ -1,2 +1,4 @@
 # resume
-My latest Resume
+My updated Resume
+
+https://gmshashank.github.io/resume/
